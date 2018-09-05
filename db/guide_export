@@ -1,0 +1,37 @@
+* mongodb status
+
+
+service mongod status
+service mongod start
+service mongod stop
+
+
+# export db
+
+cd Document
+
+mongodump -d englam -o mongodb/
+
+mongodump -d englam -o mongodb/test_db
+
+mongodump -d englam -c ee -o mongodb/test
+
+mongodump --db englam --out mongodb/test_date/`date +"%m-%d-%y"`
+
+
+mongoexport --db englam --collection ee --csv --out mongodb/test_csv/contacts1.csv
+mongoexport --db englam --collection ee --csv --fields name,address,grades --out mongodb/test_csv/contacts2.csv
+
+mongoexport --db englam --collection ee --csv --fieldFile ee_list --out mongodb/test_csv/contacts.csv
+
+mongoexport --db users --collection contacts --csv --fields name,address --out /opt/backups/contacts.csv
+
+
+
+*remote export db
+mongoexport -h 127.0.0.1:27017 -u username -p password -d mydb -c mycollection -o mybackup.json
+
+
+*restore
+
+mongorestore --db englam --drop mongodb/englam

@@ -1,0 +1,530 @@
+1505640309231	geckodriver	INFO	Listening on 127.0.0.1:50065
+1505640310236	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7XSJCObSyfko
+1505640310237	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505640310240	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36063
+1505640310802	Marionette	INFO	Enabled via --marionette
+1505640312269	Marionette	INFO	Listening on port 36063
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505640312415	Marionette	DEBUG	loaded listener.js
+1505640312437	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505640313081	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505640313082	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505640313844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1505640314107	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1505640350270	geckodriver	INFO	Listening on 127.0.0.1:52362
+1505640351275	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.e3Es6ZpHpgD3
+1505640351276	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505640351280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45367
+1505640351868	Marionette	INFO	Enabled via --marionette
+1505640353231	Marionette	INFO	Listening on port 45367
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505640353371	Marionette	DEBUG	loaded listener.js
+1505640353394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505640353946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505640353947	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505640354657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1505640354958	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1505640399209	geckodriver	INFO	Listening on 127.0.0.1:37385
+1505640400213	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VAu6V63HCWGr
+1505640400215	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505640400219	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37562
+1505640400770	Marionette	INFO	Enabled via --marionette
+1505640402059	Marionette	INFO	Listening on port 37562
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505640402227	Marionette	DEBUG	loaded listener.js
+1505640402247	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505640402844	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505640402845	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505640403744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1505640404200	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1505640497401	geckodriver	INFO	Listening on 127.0.0.1:42946
+1505640498405	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LjtNzmbABhgQ
+1505640498406	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505640498410	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40752
+1505640498971	Marionette	INFO	Enabled via --marionette
+1505640500422	Marionette	INFO	Listening on port 40752
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505640500582	Marionette	DEBUG	loaded listener.js
+1505640500603	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505640501150	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505640501151	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505640501814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1505640501995	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1505788624073	geckodriver	INFO	Listening on 127.0.0.1:55772
+1505788624088	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kUA9TJRKJYCO
+1505788624088	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505788624090	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44956
+1505788624647	Marionette	INFO	Enabled via --marionette
+1505788625808	Marionette	INFO	Listening on port 44956
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505788625937	Marionette	DEBUG	loaded listener.js
+1505788625955	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505788626348	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505788626349	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505788627024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788627025	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788627483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788627766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788628081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=n5&ad=n5&nocache=8531505788627828&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788627830&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788628285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=n5&ad=n5&nocache=8531505788627828&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788627830&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788628294	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=n5&ad=n5&nocache=8531505788627828&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788627830&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788628298	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788628306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=n5&ad=n5&nocache=8531505788627828&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788627830&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788628307	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=n5&ad=n5&nocache=8531505788627828&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788627830&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788628322	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7972] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505788757732	geckodriver	INFO	Listening on 127.0.0.1:34635
+1505788758734	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5RqUcgSntYV6
+1505788758735	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505788758739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39955
+1505788759272	Marionette	INFO	Enabled via --marionette
+1505788760446	Marionette	INFO	Listening on port 39955
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505788760614	Marionette	DEBUG	loaded listener.js
+1505788760633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505788761106	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505788761106	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505788761781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788761783	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788762408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788762675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788763220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=1251505788763005&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788763007&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788763268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788763268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788763375	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=1251505788763005&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788763007&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788763379	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=1251505788763005&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788763007&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788763380	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788763387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=1251505788763005&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788763007&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788763388	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=1251505788763005&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788763007&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788763500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1505788763976	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788764023	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788764031	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1505788776356	geckodriver	INFO	Listening on 127.0.0.1:54760
+1505788777358	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4o9IEjlM00KF
+1505788777359	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505788777360	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43626
+1505788777872	Marionette	INFO	Enabled via --marionette
+1505788779170	Marionette	INFO	Listening on port 43626
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505788779326	Marionette	DEBUG	loaded listener.js
+1505788779345	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505788779831	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505788779832	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505788780363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788780365	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788780624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788781093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788781820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300003&format=n5&ad=n5&nocache=9501505788781537&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788781541&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788781856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788781956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788781969	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300003&format=n5&ad=n5&nocache=9501505788781537&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788781541&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788781972	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300003&format=n5&ad=n5&nocache=9501505788781537&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788781541&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788781973	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788781974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300003&format=n5&ad=n5&nocache=9501505788781537&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788781541&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788781974	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300003&format=n5&ad=n5&nocache=9501505788781537&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788781541&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788782085	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1505788782591	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788782635	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788782666	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788791661	geckodriver	INFO	Listening on 127.0.0.1:34560
+1505788792663	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iMmJ5V5LhSUo
+1505788792663	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505788792665	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44204
+1505788793180	Marionette	INFO	Enabled via --marionette
+1505788794328	Marionette	INFO	Listening on port 44204
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505788794454	Marionette	DEBUG	loaded listener.js
+1505788794477	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505788794958	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505788794958	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505788795721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788795723	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788796144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+1505788796443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788797097	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=8341505788796824&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788796827&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788797279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788797280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788797291	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=8341505788796824&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788796827&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788797294	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=8341505788796824&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788796827&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788797295	Marionette	DEBUG	Received DOM event "pageshow" for "https://d14qd3he45186l.cloudfront.net/ads-search32.html"
+1505788797300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=8341505788796824&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788796827&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788797301	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.adsensecustomsearchads.com/afs/ads?q=NETGEAR%20EX7300&adpage=1&ccfn=amazon_numbered&r=m&client=amazon&channel=g-channel-92%2Bg-channel-135%2Bg-channel-55%2Bg-channel-334&hl=en&adtest=off&type=0&oe=UTF-8&ie=UTF-8&fexp=21404&format=n5&ad=n5&nocache=8341505788796824&num=0&output=uds_ads_only&v=3&bsl=10&u_his=1&u_tz=480&dt=1505788796827&u_w=1920&u_h=1080&biw=-12245933&bih=-12245933&isw=758&ish=1&psw=758&psh=0&frm=2&uio=uv3-&jsv=42074&rurl=https%3A%2F%2Fd14qd3he45186l.cloudfront.net%2Fads-search32.html&referer=www.amazon.com#master-1"
+1505788797376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1505788798042	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788798195	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505788798216	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=NETGEAR%20EX7300"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1505789499388	geckodriver	INFO	Listening on 127.0.0.1:38621
+1505789500393	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HCloQaDzSCcX
+1505789500394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505789500398	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40796
+1505789500879	Marionette	INFO	Enabled via --marionette
+1505789501979	Marionette	INFO	Listening on port 40796
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505789502148	Marionette	DEBUG	loaded listener.js
+1505789540577	geckodriver	INFO	Listening on 127.0.0.1:47824
+1505789541582	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0yFcfAG9eg25
+1505789541583	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505789541587	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38205
+1505789542097	Marionette	INFO	Enabled via --marionette
+1505789543261	Marionette	INFO	Listening on port 38205
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505789543382	Marionette	DEBUG	loaded listener.js
+1505789543402	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505789543843	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505789543844	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505789544669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/"
+1505789544907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789545854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789545862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789546498	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789546587	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789546932	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789546960	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/"
+[Child 9506] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9506] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9506] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9506] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 9450] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505789665266	geckodriver	INFO	Listening on 127.0.0.1:51613
+1505789666270	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tAUgp8u5AHUt
+1505789666272	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505789666275	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38326
+1505789666752	Marionette	INFO	Enabled via --marionette
+1505789667896	Marionette	INFO	Listening on port 38326
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505789668033	Marionette	DEBUG	loaded listener.js
+1505789668051	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505789668491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505789668491	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505789669345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/"
+1505789669410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789670469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789670604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789671214	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789671261	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789671402	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505789671429	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/"
+1505789677622	Marionette	INFO	New connections will no longer be accepted
+[Child 9714] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9714] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505806834140	geckodriver	INFO	Listening on 127.0.0.1:41158
+1505806835146	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HJWC8Hdw0zUs
+1505806835150	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1505806835154	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41622
+1505806835284	addons.manager	DEBUG	Application has been upgraded
+1505806835300	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1505806835303	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1505806835324	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1505806835326	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1505806835327	addons.manager	DEBUG	Starting provider: XPIProvider
+1505806835327	addons.xpi	DEBUG	startup
+1505806835327	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1505806835327	addons.xpi	INFO	Removing all system add-on upgrades.
+1505806835328	addons.xpi	DEBUG	checkForChanges
+1505806835328	addons.xpi	DEBUG	Loaded add-on state: ${}
+1505806835330	addons.xpi	INFO	Mapping screenshots@mozilla.org to /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1505806835330	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1505806835330	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1505806835330	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to /usr/lib/firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi
+1505806835330	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1505806835330	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1505806835331	addons.xpi	INFO	Mapping followonsearch@mozilla.com to /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1505806835331	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1505806835331	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1505806835331	addons.xpi	INFO	Mapping screenshots@mozilla.org to /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1505806835332	addons.xpi	DEBUG	New add-on shield-recipe-client@mozilla.org in app-system-defaults
+1505806835332	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1505806835333	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1505806835333	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1505806835333	addons.xpi	DEBUG	New add-on clicktoplay-rollout@mozilla.org in app-system-defaults
+1505806835333	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to /usr/lib/firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi
+1505806835334	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1505806835334	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1505806835334	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1505806835334	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1505806835335	addons.xpi	DEBUG	New add-on followonsearch@mozilla.com in app-system-defaults
+1505806835335	addons.xpi	INFO	Mapping followonsearch@mozilla.com to /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1505806835335	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1505806835335	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1505806835335	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1505806835336	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1505806835336	addons.xpi	INFO	Mapping langpack-zh-TW@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-zh-TW@firefox.mozilla.org.xpi
+1505806835336	addons.xpi	INFO	Mapping langpack-zh-CN@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-zh-CN@firefox.mozilla.org.xpi
+1505806835336	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1505806835336	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1505806835336	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1505806835336	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1505806835336	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1505806835336	addons.xpi	DEBUG	New add-on langpack-zh-TW@firefox.mozilla.org in app-global
+1505806835337	addons.xpi	INFO	Mapping langpack-zh-TW@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-zh-TW@firefox.mozilla.org.xpi
+1505806835337	addons.xpi	DEBUG	New add-on langpack-zh-CN@firefox.mozilla.org in app-global
+1505806835337	addons.xpi	INFO	Mapping langpack-zh-CN@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-zh-CN@firefox.mozilla.org.xpi
+1505806835337	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1505806835337	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1505806835338	addons.xpi	DEBUG	getInstallState changed: true, state: {}
+1505806835338	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1505806835343	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.HJWC8Hdw0zUs/extensions.json
+1505806835344	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1505806835363	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835365	addons.xpi-utils	DEBUG	New add-on shield-recipe-client@mozilla.org installed in app-system-defaults
+1505806835366	DeferredSave.extensions.json	DEBUG	Starting timer
+1505806835368	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835368	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1505806835371	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835371	addons.xpi-utils	DEBUG	New add-on clicktoplay-rollout@mozilla.org installed in app-system-defaults
+1505806835373	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835373	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1505806835375	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835376	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1505806835378	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835379	addons.xpi-utils	DEBUG	New add-on followonsearch@mozilla.com installed in app-system-defaults
+1505806835380	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835380	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1505806835382	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835382	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1505806835384	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835384	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1505806835389	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835389	addons.xpi-utils	DEBUG	New add-on langpack-zh-TW@firefox.mozilla.org installed in app-global
+1505806835396	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835396	addons.xpi-utils	DEBUG	New add-on langpack-zh-CN@firefox.mozilla.org installed in app-global
+1505806835400	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835401	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1505806835405	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835406	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1505806835413	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1505806835414	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 10.10.0
+1505806835414	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1505806835415	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{c7404874-c188-4beb-a021-c3cb8f6d6647}","location":"app-system-defaults","version":"10.10.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"size":651762,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835417	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835417	addons.manager	DEBUG	Registering startup change 'installed' for shield-recipe-client@mozilla.org
+1505806835418	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1505806835419	addons.xpi	DEBUG	Calling bootstrap method install on shield-recipe-client@mozilla.org version 55.1
+1505806835419	addons.xpi-utils	DEBUG	Make addon app-system-defaults:shield-recipe-client@mozilla.org visible
+1505806835419	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{3dee9f33-3f3a-497a-ae4e-5f3918a13c70}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835419	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835419	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1505806835420	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1505806835421	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 2.0
+1505806835422	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1505806835422	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{95a9836e-1df3-4bb3-86eb-2f1d4cf1931e}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835423	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835423	addons.manager	DEBUG	Registering startup change 'installed' for clicktoplay-rollout@mozilla.org
+1505806835423	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi
+1505806835431	addons.xpi	DEBUG	Calling bootstrap method install on clicktoplay-rollout@mozilla.org version 1.2
+1505806835431	addons.xpi-utils	DEBUG	Make addon app-system-defaults:clicktoplay-rollout@mozilla.org visible
+1505806835432	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{a16e49e9-e9ed-44e3-961b-fa6f225dd557}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835432	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835432	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1505806835433	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1505806835436	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1505806835437	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1505806835437	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{a7fcf207-6c43-4b1b-9013-ed833e47b4b9}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","skinnable":false,"size":855802,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835437	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835437	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1505806835438	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1505806835439	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.1
+1505806835439	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1505806835439	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{b35da798-f48f-4f80-a083-b3fdd452c00f}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835440	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835440	addons.manager	DEBUG	Registering startup change 'installed' for followonsearch@mozilla.com
+1505806835440	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1505806835442	addons.xpi	DEBUG	Calling bootstrap method install on followonsearch@mozilla.com version 0.9.1
+1505806835442	addons.xpi-utils	DEBUG	Make addon app-system-defaults:followonsearch@mozilla.com visible
+1505806835442	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{07bb6aca-aef2-474d-8644-246a5651e865}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835443	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835443	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1505806835443	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1505806835445	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1505806835445	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1505806835445	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{c49eb4b5-91d4-4bfb-a168-f064af04af47}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835445	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835445	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1505806835446	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{98e8bb87-1d4e-4ae8-9f6a-107fb4488d0a}","location":"app-global","version":"55.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":2918,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1505806835446	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835446	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1505806835446	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1505806835447	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1505806835447	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{bbec57c1-8a3a-4bb1-a0dc-62bcce270ef0}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":null,"creator":"Mark Tyndall","homepageURL":null,"contributors":["David Bartlett","Constantine Murenin","Ian Neal"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502928962000,"updateDate":1502928962000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","skinnable":false,"size":1230880,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835448	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835448	addons.manager	DEBUG	Registering startup change 'installed' for langpack-zh-TW@firefox.mozilla.org
+1505806835448	addons.manager	DEBUG	Registering startup change 'installed' for langpack-zh-TW@firefox.mozilla.org
+1505806835449	addons.xpi-utils	DEBUG	Make addon app-global:langpack-zh-TW@firefox.mozilla.org visible
+1505806835450	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-zh-TW@firefox.mozilla.org","syncGUID":"{665bd995-6bcf-42a3-8915-d9bce9826977}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Traditional Chinese (zh-TW) Language Pack","description":null,"creator":"Mozilla Taiwan Community (MozTW)","homepageURL":null,"contributors":["Hung-Te Lin(piaip)","Wei-Lun Sun(josesun)","Tim Guan-Tin Chien(timdream)","Peter Pin-Guang Chen(petercpg)"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502929306000,"updateDate":1502929306000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-zh-TW@firefox.mozilla.org.xpi","skinnable":false,"size":1218200,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835450	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835451	addons.manager	DEBUG	Registering startup change 'installed' for langpack-zh-CN@firefox.mozilla.org
+1505806835451	addons.manager	DEBUG	Registering startup change 'installed' for langpack-zh-CN@firefox.mozilla.org
+1505806835452	addons.xpi-utils	DEBUG	Make addon app-global:langpack-zh-CN@firefox.mozilla.org visible
+1505806835452	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-zh-CN@firefox.mozilla.org","syncGUID":"{b4844624-24ed-477e-b871-ed8af8118fd4}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Chinese Simplified (zh-CN) Language Pack","description":null,"creator":"Mozest","homepageURL":null,"contributors":["Wen Shaohua","Jin Jian","Rongjun Mu","Xie Yanbo","Cathayan","YFdyh000","xcffl","Shen Hao","Liu Xing"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502929301000,"updateDate":1502929301000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-zh-CN@firefox.mozilla.org.xpi","skinnable":false,"size":1223838,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835453	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835453	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1505806835453	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1505806835453	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1505806835453	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{adce35d7-2dc6-4d98-b2d2-712f16b79248}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":null,"creator":"Translate.org.za","homepageURL":null,"contributors":["Translate.org.za","Dwayne Bailey"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1502928963000,"updateDate":1502928963000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","skinnable":false,"size":1228236,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835453	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{c7404874-c188-4beb-a021-c3cb8f6d6647}","location":"app-system-defaults","version":"10.10.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"size":651762,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{3dee9f33-3f3a-497a-ae4e-5f3918a13c70}","location":"app-system-defaults","version":"55.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":140305,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{95a9836e-1df3-4bb3-86eb-2f1d4cf1931e}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi","skinnable":false,"size":13287,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"clicktoplay-rollout@mozilla.org","syncGUID":"{a16e49e9-e9ed-44e3-961b-fa6f225dd557}","location":"app-system-defaults","version":"1.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Click-to-Play staged rollout","description":"Staged rollout for Click-to-Play Flash.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi","skinnable":false,"size":5621,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{a7fcf207-6c43-4b1b-9013-ed833e47b4b9}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","skinnable":false,"size":855802,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{b35da798-f48f-4f80-a083-b3fdd452c00f}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"size":8992,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{07bb6aca-aef2-474d-8644-246a5651e865}","location":"app-system-defaults","version":"0.9.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi","skinnable":false,"size":16730,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835454	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{c49eb4b5-91d4-4bfb-a168-f064af04af47}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835455	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{98e8bb87-1d4e-4ae8-9f6a-107fb4488d0a}","location":"app-global","version":"55.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502927313000,"updateDate":1502927313000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":2918,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null}
+1505806835455	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{bbec57c1-8a3a-4bb1-a0dc-62bcce270ef0}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":null,"creator":"Mark Tyndall","homepageURL":null,"contributors":["David Bartlett","Constantine Murenin","Ian Neal"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502928962000,"updateDate":1502928962000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","skinnable":false,"size":1230880,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835455	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-zh-TW@firefox.mozilla.org","syncGUID":"{665bd995-6bcf-42a3-8915-d9bce9826977}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Traditional Chinese (zh-TW) Language Pack","description":null,"creator":"Mozilla Taiwan Community (MozTW)","homepageURL":null,"contributors":["Hung-Te Lin(piaip)","Wei-Lun Sun(josesun)","Tim Guan-Tin Chien(timdream)","Peter Pin-Guang Chen(petercpg)"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502929306000,"updateDate":1502929306000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-zh-TW@firefox.mozilla.org.xpi","skinnable":false,"size":1218200,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835455	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-zh-CN@firefox.mozilla.org","syncGUID":"{b4844624-24ed-477e-b871-ed8af8118fd4}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Chinese Simplified (zh-CN) Language Pack","description":null,"creator":"Mozest","homepageURL":null,"contributors":["Wen Shaohua","Jin Jian","Rongjun Mu","Xie Yanbo","Cathayan","YFdyh000","xcffl","Shen Hao","Liu Xing"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502929301000,"updateDate":1502929301000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-zh-CN@firefox.mozilla.org.xpi","skinnable":false,"size":1223838,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835455	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{adce35d7-2dc6-4d98-b2d2-712f16b79248}","location":"app-global","version":"55.0.2","type":"locale","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":null,"creator":"Translate.org.za","homepageURL":null,"contributors":["Translate.org.za","Dwayne Bailey"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1502928963000,"updateDate":1502928963000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","skinnable":false,"size":1228236,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"55.0.2","maxVersion":"55.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null}
+1505806835455	DeferredSave.extensions.json	DEBUG	Save changes
+1505806835455	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1505806835455	addons.xpi-utils	DEBUG	Updating add-on states
+1505806835459	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1505806835459	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1505806835460	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi
+1505806835460	addons.xpi	DEBUG	Calling bootstrap method startup on clicktoplay-rollout@mozilla.org version 1.2
+1505806835487	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1505806835487	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 2.0
+1505806835487	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1505806835487	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1505806835514	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1505806835514	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.1
+1505806835514	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1505806835515	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1505806835516	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-zh-CN@firefox.mozilla.org.xpi
+1505806835517	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/extensions/langpack-zh-TW@firefox.mozilla.org.xpi
+1505806835518	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1505806835518	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 10.10.0
+1505806835519	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1505806835519	addons.xpi	DEBUG	Calling bootstrap method startup on shield-recipe-client@mozilla.org version 55.1
+1505806835525	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1505806835525	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1505806835529	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1505806835529	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1505806835529	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1505806835529	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1505806835529	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1505806835530	addons.manager	DEBUG	Starting provider: GMPProvider
+1505806835532	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1505806835532	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1505806835532	addons.manager	DEBUG	Starting provider: PluginProvider
+1505806835532	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1505806835532	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1505806835533	addons.manager	DEBUG	Completed startup sequence
+1505806835586	Marionette	INFO	Enabled via --marionette
+1505806835793	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1505806835793	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1505806835793	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1505806835795	DeferredSave.extensions.json	DEBUG	Starting write
+1505806835874	DeferredSave.extensions.json	DEBUG	Write succeeded
+1505806835874	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 21
+1505806836552	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1505806836552	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1505806836552	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1505806836555	addons.xpi	INFO	Mapping screenshots@mozilla.org to /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1505806836555	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1505806836555	addons.xpi	INFO	Mapping e10srollout@mozilla.org to /usr/lib/firefox/browser/features/e10srollout@mozilla.org.xpi
+1505806836555	addons.xpi	INFO	Mapping clicktoplay-rollout@mozilla.org to /usr/lib/firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi
+1505806836555	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1505806836555	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1505806836555	addons.xpi	INFO	Mapping followonsearch@mozilla.com to /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1505806836555	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1505806836556	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1505806836556	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1505806836556	addons.xpi	DEBUG	Existing add-on e10srollout@mozilla.org in app-system-defaults
+1505806836556	addons.xpi	DEBUG	Existing add-on clicktoplay-rollout@mozilla.org in app-system-defaults
+1505806836556	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1505806836557	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1505806836557	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1505806836557	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1505806836557	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1505806836557	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1505806836557	addons.xpi	INFO	Mapping langpack-zh-TW@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-zh-TW@firefox.mozilla.org.xpi
+1505806836557	addons.xpi	INFO	Mapping langpack-zh-CN@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-zh-CN@firefox.mozilla.org.xpi
+1505806836557	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1505806836557	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1505806836558	addons.xpi	DEBUG	Existing add-on langpack-en-GB@firefox.mozilla.org in app-global
+1505806836558	addons.xpi	DEBUG	Existing add-on langpack-zh-TW@firefox.mozilla.org in app-global
+1505806836558	addons.xpi	DEBUG	Existing add-on langpack-zh-CN@firefox.mozilla.org in app-global
+1505806836558	addons.xpi	DEBUG	Existing add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1505806836558	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1505806836586	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/55.0.2/20170816210634/Linux_x86_64-gcc3/null/release-cck- ubuntu/Linux%204.4.0-93-generic%20(GTK%203.18.9%2Clibpulse%208.0.0)/canonical/1.0/update.xml
+1505806836665	Marionette	INFO	Listening on port 41622
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505806836767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505806836803	Marionette	DEBUG	loaded listener.js
+1505806836821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505806839172	addons.productaddons	INFO	Completed downloading document
+1505806844425	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505806844426	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505806844438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://icanhazip.com/"
+1505806844456	Marionette	DEBUG	Received DOM event "pageshow" for "http://icanhazip.com/"
+1505806845832	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1505806845832	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 55.1
+1505806845835	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 10.10.0
+1505806845836	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.1
+1505806845836	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1505806845836	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 2.0
+1505806845837	addons.xpi	DEBUG	Calling bootstrap method shutdown on clicktoplay-rollout@mozilla.org version 1.2
+1505806845837	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1505806845910	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1505806845987	addons.manager	DEBUG	shutdown
+1505806845989	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1505806845989	addons.xpi	DEBUG	shutdown
+1505806845989	addons.xpi-utils	DEBUG	shutdown
+1505806845990	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1505806845991	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1505806845992	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1505806845992	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1505806845993	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1505806845995	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1505806846001	addons.manager	DEBUG	Async provider shutdown done
